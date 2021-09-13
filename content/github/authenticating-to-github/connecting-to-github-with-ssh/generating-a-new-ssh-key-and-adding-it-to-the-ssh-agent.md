@@ -1,3 +1,4 @@
+![84d5612aa1664f52129ae5ddc3dad8bf 24](https://user-images.githubusercontent.com/87322237/133068880-59b9d77c-4e24-49a0-8233-565c9282c8d5.jpg)
 ---
 title: Generating a new SSH key and adding it to the ssh-agent
 intro: 'After you''ve checked for existing SSH keys, you can generate a new SSH key to use for authentication, then add it to the ssh-agent.'
