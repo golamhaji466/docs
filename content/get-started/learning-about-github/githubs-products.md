@@ -1,3 +1,4 @@
+![84d5612aa1664f52129ae5ddc3dad8bf 24](https://user-images.githubusercontent.com/87322237/133268812-f4310adb-5a43-4bcb-88a9-3096775e42f5.jpg)
 ---
 title: GitHub's products
 intro: 'An overview of {% data variables.product.prodname_dotcom %}''s products and pricing plans.'
